@@ -8,3 +8,10 @@ NEW THINGS USED / LEARNT
 
 Flex: 1 - take up as much space as possible
 Flex: .2 - takes up 20% of parent's width
+Flex wrap
+
+React Router V6
+
+Search page
+
+hr lines

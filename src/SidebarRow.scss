@@ -12,11 +12,33 @@
     flex: 1;
     margin-left: 20px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 500;
   }
 }
 
 .sidebarRow:hover {
   background-color: lightgray;
   cursor: pointer;
+}
+
+// when hover go to icon
+.sidebarRow:hover > .sidebarRow__icon {
+  color: red;
+}
+
+.sidebarRow:hover > .sidebarRow__title {
+  font-weight: bold;
+}
+
+// if selected class applies
+.sidebarRow.selected {
+  background-color: lightgray;
+}
+
+// if it's already selected
+.sidebarRow.selected > .sidebarRow__icon {
+  color: red;
+}
+.sidebarRow.selected > .sidebarRow__title {
+  font-weight: bold;
 }
