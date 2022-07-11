@@ -1,8 +1,12 @@
-BEM naming convention
+STATIC YOUTUBE CLONE
 
-Material UI icons
+Resources used
 
-Import styles as just the document
+- BEM naming convention
+
+- Material UI icons
+
+- React Router V6
 
 NEW THINGS USED / LEARNT
 
@@ -10,8 +14,8 @@ Flex: 1 - take up as much space as possible
 Flex: .2 - takes up 20% of parent's width
 Flex wrap
 
-React Router V6
-
 Search page
 
 hr lines
+
+object fit for images
